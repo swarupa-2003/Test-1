@@ -159,5 +159,4 @@ EcoWaste/
 
 ### 8. Screenshot output
 
-<img width="1797" height="942" alt="2" src="https://github.com/user-attachments/assets/aefe35ee-8013-49a4-9316-d15567c20dc5" />
-<img width="1807" height="912" alt="1" src="https://github.com/user-attachments/assets/de99a5a4-6207-45eb-af88-8f60af52a63c" />
+<img width="1807" height="912" alt="1" src="https://github.com/user-attachments/assets/48266967-64ba-4139-9b4c-bc98f4167714" />
