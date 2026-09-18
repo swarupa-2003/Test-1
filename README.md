@@ -121,7 +121,8 @@ Android Activity lifecycle methods can be observed through Logcat, including:
 - `onStop()`
 - `onDestroy()`
 
----
+<img width="1807" height="912" alt="1" src="https://github.com/user-attachments/assets/a0e62b7f-4ee5-48b3-bf45-f37bcec22ded" />
+
 
 ## 📂 Project Structure
 
@@ -157,7 +158,5 @@ EcoWaste/
 ├── settings.gradle
 └── README.md
 
-## 8. Screenshot output
 
-<img width="1797" height="942" alt="image" src="https://github.com/user-attachments/assets/9b9b7d31-06ec-436d-a652-e6881e2354d8" />
 
