@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Resident Name" />
+
+        <EditText
+            android:id="@+id/editAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Address"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Waste Type"
+            android:layout_marginTop="16dp" />
+
+        <RadioGroup
+            android:id="@+id/wasteGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/wasteOrganic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Organic" />
+            <RadioButton android:id="@+id/wasteRecyclable" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Recyclable" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Priority"
+            android:layout_marginTop="16dp" />
+
+        <RadioGroup
+            android:id="@+id/priorityGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/priorityHigh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="High" />
+            <RadioButton android:id="@+id/priorityNormal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Normal" />
+        </RadioGroup>
+
+        <Switch
+            android:id="@+id/doorstepSwitch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Doorstep Pickup"
+            android:layout_marginTop="16dp" />
+
+        <Button
+            android:id="@+id/btnScheduleCollection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Schedule"
+            android:layout_marginTop="24dp" />
+
+    </LinearLayout>
+</ScrollView>
