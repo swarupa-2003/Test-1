@@ -157,6 +157,7 @@ EcoWaste/
 ├── settings.gradle
 └── README.md
 
-### 8. Screenshot output
+## 8. Screenshot output
 
-<img width="1797" height="942" alt="image" src="https://github.com/user-attachments/assets/998081ed-09c6-466d-8829-e78b65f9fbb9" />
+<img width="1797" height="942" alt="image" src="https://github.com/user-attachments/assets/9b9b7d31-06ec-436d-a652-e6881e2354d8" />
+
